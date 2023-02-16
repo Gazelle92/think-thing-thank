@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/think-thing-thank.git/static/css/main.444c2d20.css",
-    "main.js": "/think-thing-thank.git/static/js/main.8363940f.js",
-    "static/js/787.1e0a1d0e.chunk.js": "/think-thing-thank.git/static/js/787.1e0a1d0e.chunk.js",
-    "static/media/contact_img1.png": "/think-thing-thank.git/static/media/contact_img1.dc453b8e96cf49937484.png",
-    "static/media/contact_bg.png": "/think-thing-thank.git/static/media/contact_bg.c975962f1677d76101ed.png",
-    "static/media/contact_img2.png": "/think-thing-thank.git/static/media/contact_img2.efaaec36cc7373213045.png",
-    "static/media/contact_icon2.png": "/think-thing-thank.git/static/media/contact_icon2.229dc21dff55f99c9ccb.png",
-    "static/media/contact_icon4.png": "/think-thing-thank.git/static/media/contact_icon4.5401dac8ad810a74a66a.png",
-    "static/media/contact_icon1.png": "/think-thing-thank.git/static/media/contact_icon1.2cfde82a192aa7037908.png",
-    "index.html": "/think-thing-thank.git/index.html",
-    "main.444c2d20.css.map": "/think-thing-thank.git/static/css/main.444c2d20.css.map",
-    "main.8363940f.js.map": "/think-thing-thank.git/static/js/main.8363940f.js.map",
-    "787.1e0a1d0e.chunk.js.map": "/think-thing-thank.git/static/js/787.1e0a1d0e.chunk.js.map"
+    "main.css": "/think-thing-thank/static/css/main.bc848c57.css",
+    "main.js": "/think-thing-thank/static/js/main.7d054dc9.js",
+    "static/js/787.1e0a1d0e.chunk.js": "/think-thing-thank/static/js/787.1e0a1d0e.chunk.js",
+    "static/media/contact_img1.png": "/think-thing-thank/static/media/contact_img1.dc453b8e96cf49937484.png",
+    "static/media/contact_bg.png": "/think-thing-thank/static/media/contact_bg.c975962f1677d76101ed.png",
+    "static/media/contact_img2.png": "/think-thing-thank/static/media/contact_img2.efaaec36cc7373213045.png",
+    "static/media/contact_icon2.png": "/think-thing-thank/static/media/contact_icon2.229dc21dff55f99c9ccb.png",
+    "static/media/contact_icon4.png": "/think-thing-thank/static/media/contact_icon4.5401dac8ad810a74a66a.png",
+    "static/media/contact_icon1.png": "/think-thing-thank/static/media/contact_icon1.2cfde82a192aa7037908.png",
+    "index.html": "/think-thing-thank/index.html",
+    "main.bc848c57.css.map": "/think-thing-thank/static/css/main.bc848c57.css.map",
+    "main.7d054dc9.js.map": "/think-thing-thank/static/js/main.7d054dc9.js.map",
+    "787.1e0a1d0e.chunk.js.map": "/think-thing-thank/static/js/787.1e0a1d0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.444c2d20.css",
-    "static/js/main.8363940f.js"
+    "static/css/main.bc848c57.css",
+    "static/js/main.7d054dc9.js"
   ]
 }
